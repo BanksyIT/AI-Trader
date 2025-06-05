@@ -1,0 +1,16 @@
+# Placeholder for requirements.txt
+# requirements.txt
+# ----------------
+# Dependencies for backend and frontend of the AI trading bot
+
+# Backend
+pandas
+numpy
+ccxt
+python-dotenv
+matplotlib
+#sqlite3  # standard with Python but listed for clarity
+
+# Frontend - Streamlit and Telegram
+streamlit
+python-telegram-bot==13.15
